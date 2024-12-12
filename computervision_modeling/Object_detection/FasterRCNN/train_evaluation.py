@@ -1,6 +1,6 @@
 # train_evaluation.py
 import torch
-from map_utils import calculate_map
+from computervision_modeling.model.matrix_map import calculate_map
 
 # Train 함수
 # Train 함수

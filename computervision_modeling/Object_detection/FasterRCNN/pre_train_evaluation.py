@@ -1,7 +1,7 @@
 # train_evaluation.py
 import torch
 import match_label as match
-from map_utils import calculate_map
+from computervision_modeling.model.matrix_map import calculate_map
 
 # Train 함수
 def train(model, train_loader, optimizer, device):
