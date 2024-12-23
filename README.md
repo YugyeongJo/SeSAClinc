@@ -1,11 +1,12 @@
-
 # SeSAClinic 💆✨
 
 > AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스 프로젝트
 
-![Web_screen main](./img/webimg.png)
-![Web_screen result](./img/webimg2.png)
-![chatbot](./img/webimg3.png)
+<p align="center">
+  <img src="./img/webimg.png" width="32%" />
+  <img src="./img/webimg2.png" width="32%" />
+  <img src="./img/webimg3.png" width="32%" />
+</p>
 
 ## 📖 Description
 프로젝트는 Kaggle의 "The Movies Dataset"을 활용하여 팀원 각자가 설정한 분석 주제에 따라 다양한 인사이트를 도출하는 것을 목표로 하였습니다. 
