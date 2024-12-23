@@ -29,24 +29,56 @@
 ```markdown
 SeSAClinic/
 ├── data_preprocessing/
+│      ├── data_labelling/
+│      │      ├── COCOlabeling/
+│      │      │        └── coco.py
+│      │      ├── YOLOlabelling/
+│      │      │        └── yolo.py
+│      │      ├── ybat-master/
+│      │      ├── dataset_check.py
+│      │      ├── annotation_check.py
+│      │      └── data_labelling_modify.py
+│      ├── none_check.py
+│      ├── data_sampling.py
+│      └── data_split.py
 ├── computervision_modeling/
-├── llm
-│      ├── embedding/
-│      │        ├── llm_embedding_KoBERT.py
-│      │        ├── llm_embedding_KoELECTRA.py
-│      │        ├── llm_embedding_list_kobert_4547.txt
-│      │        └── llm_embedding_list_koelectra_3208.txt
-│      ├── vectior_database/
-│      │        ├── faiss_index_file_kobert_4547.index
-│      │        ├── faiss_index_file_koelectra_3208.index
-│      │        └── guide.xlsx
-│      ├── document_parser.py
-│      ├── summary_with_gpt.py
-│      └── RAG-query_with_gpt.py
-└── img
-       ├── webimg.png
-       ├── webimg2.png
-       └── webimg3.png
+│      ├── Image_classification/
+│      │      ├── Alexnet/
+│      │      │        ├── data_augmentation.py
+│      │      │        ├── alexnet.py
+│      │      │        ├── flushing.py
+│      │      │        └── wrinkle.py
+│      │      └── VGG/
+│      │           ├── skintype_vgg16_final.py
+│      │           └── pores_vgg16_final.py
+│      └── Object_detection/
+│                 ├── FasterRCNN/
+│                 │       ├── data.py
+│                 │       ├── fasterrcnn_model.py
+│                 │       ├── pre_train_evaluation.py
+│                 │       ├── train_evaluation.py
+│                 │       ├── match_label.py
+│                 │       ├── matrix_map.py
+│                 │       └── main.py
+│                 └── YOLO/
+├── llm/
+│     ├── embedding/
+│     │        ├── llm_embedding_KoBERT.py
+│     │        ├── llm_embedding_KoELECTRA.py
+│     │        ├── llm_embedding_list_kobert_4547.txt
+│     │        └── llm_embedding_list_koelectra_3208.txt
+│     ├── vectior_database/
+│     │        ├── faiss_index_file_kobert_4547.index
+│     │        ├── faiss_index_file_koelectra_3208.index
+│     │        └── guide.xlsx
+│     ├── document_parser.py
+│     ├── summary_with_gpt.py
+│     └── RAG-query_with_gpt.py
+└── img/
+│     ├── webimg.png
+│     ├── webimg2.png
+│     └── webimg3.png
+└── icons/
 ```
 
 ## 💡 Team Members 
