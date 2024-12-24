@@ -14,8 +14,14 @@
 이 과정에서 데이터 전처리, 탐색적 데이터 분석, 시각화, 모델링 등 다양한 분석 기법을 적용하여 영화 데이터에 숨겨진 패턴과 트렌드를 파악하였습니다.
 
 ## 🗄️ Dataset
-👉 [Kaggle ""]
-👉 [Roboflow ""]
+👉 Skin Type
+- [Kaggle "Oily, Dry and Normal Skin Types Dataset"](https://www.kaggle.com/datasets/shakyadissanayake/oily-dry-and-normal-skin-types-dataset)
+
+👉 Skin Defect
+- [Roboflow ""]()
+
+👉 LLM Document
+- [Roboflow ""]()
 
 ## 🔧 Stack
 
