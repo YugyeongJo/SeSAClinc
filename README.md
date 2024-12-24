@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/beautifulsoup4-3776AB.svg?style=for-the-badge&logo=beautifulsoup4&logoColor=white">
 
-### Data
+### Data Handling
 <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 <img src="https://img.shields.io/badge/matplotlib-3776AB.svg?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=&logoColor=white">
