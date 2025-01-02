@@ -57,9 +57,9 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/glob-%23FFFFFF.svg?style=for-the-badge&logo=&logoColor=black">
-<img src="https://img.shields.io/badge/faiss-%23FFFFFF.svg?style=for-the-badge&logo=&logoColor=black">
-<img src="https://img.shields.io/badge/pdfplumber-%23FFFFFF.svg?style=for-the-badge&logo=&logoColor=black">
+<img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/faiss-white.svg?style=for-the-badge&logo=&logoColor=blawhiteck">
+<img src="https://img.shields.io/badge/pdfplumber-white.svg?style=for-the-badge&logo=&logoColor=white">
 
 ## 📂 Directory Structure
 
