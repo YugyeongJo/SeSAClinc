@@ -39,9 +39,9 @@
 ### LLM
 <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"> 
-<img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=glob&logoColor=black"> 
-<img src="https://img.shields.io/badge/faiss-%white.svg?style=for-the-badge&logo=faiss&logoColor=black"> 
-<img src="https://img.shields.io/badge/pdfplumber-%white.svg?style=for-the-badge&logo=pdfplumber&logoColor=black"> 
+<img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/faiss-white.svg?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/pdfplumber-white.svg?style=for-the-badge&logo=&logoColor=white">
 
 ### Data Handling
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
@@ -57,9 +57,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/faiss-white.svg?style=for-the-badge&logo=&logoColor=blawhiteck">
-<img src="https://img.shields.io/badge/pdfplumber-white.svg?style=for-the-badge&logo=&logoColor=white">
+
 
 ## 📂 Directory Structure
 
