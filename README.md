@@ -39,9 +39,9 @@
 ### LLM
 <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"> 
-<img src="https://img.shields.io/badge/glob-%23white.svg?style=for-the-badge&logo=glob&logoColor=white"> 
-<img src="https://img.shields.io/badge/faiss-%23white.svg?style=for-the-badge&logo=faiss&logoColor=white"> 
-<img src="https://img.shields.io/badge/pdfplumber-%23white.svg?style=for-the-badge&logo=pdfplumber&logoColor=white"> 
+<img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=glob&logoColor=black"> 
+<img src="https://img.shields.io/badge/faiss-%white.svg?style=for-the-badge&logo=faiss&logoColor=black"> 
+<img src="https://img.shields.io/badge/pdfplumber-%white.svg?style=for-the-badge&logo=pdfplumber&logoColor=black"> 
 
 ### Data Handling
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
