@@ -32,22 +32,13 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/torchvision-white.svg?style=for-the-badge&logo=torchvision&logoColor=white"> <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"> 
 
 ### LLM
-<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/faiss-white.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/pdfplumber-white.svg?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/Openai-74aa9c?style=for-the-badge&logo=openai&logoColor=whit"> <img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/faiss-white.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/pdfplumber-white.svg?style=for-the-badge&logo=&logoColor=white">
 
 ### Data Handling
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/beautifulsoup4-3776AB.svg?style=for-the-badge&logo=beautifulsoup4&logoColor=white">
-- pillow
-- imgaug
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
-<img src="https://img.shields.io/badge/matplotlib-3776AB.svg?style=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/beautifulsoup4-3776AB.svg?style=for-the-badge&logo=beautifulsoup4&logoColor=white"> <img src="https://img.shields.io/badge/pillow-white.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/imgaug-white.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-3776AB.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=&logoColor=white">
 
 ### Environment & Resource Management
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 
 ## 📂 Directory Structure
