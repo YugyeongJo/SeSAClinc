@@ -33,15 +33,15 @@
 ### DeepLearning
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> 
-- torchvision
+<img src="https://img.shields.io/badge/torchvision-%23white.svg?style=for-the-badge&logo=torchvision&logoColor=white"> 
 <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"> 
 
 ### LLM
 <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"> 
-- glob
-- faiss
-- pdfplumber
+<img src="https://img.shields.io/badge/glob-%23white.svg?style=for-the-badge&logo=glob&logoColor=white"> 
+<img src="https://img.shields.io/badge/faiss-%23white.svg?style=for-the-badge&logo=faiss&logoColor=white"> 
+<img src="https://img.shields.io/badge/pdfplumber-%23white.svg?style=for-the-badge&logo=pdfplumber&logoColor=white"> 
 
 ### Data Handling
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
@@ -53,10 +53,13 @@
 <img src="https://img.shields.io/badge/matplotlib-3776AB.svg?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=&logoColor=white">
 
-### 
+### Environment & Resource Management
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/glob-%23FFFFFF.svg?style=for-the-badge&logo=&logoColor=black">
+<img src="https://img.shields.io/badge/faiss-%23FFFFFF.svg?style=for-the-badge&logo=&logoColor=black">
+<img src="https://img.shields.io/badge/pdfplumber-%23FFFFFF.svg?style=for-the-badge&logo=&logoColor=black">
 
 ## 📂 Directory Structure
 
