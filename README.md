@@ -26,14 +26,12 @@
 ## 🔧 Stack
 
 ### Language & Framework
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 
 ### DeepLearning
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> 
-<img src="https://img.shields.io/badge/torchvision-%23white.svg?style=for-the-badge&logo=torchvision&logoColor=white"> 
+<img src="https://img.shields.io/badge/torchvision-white.svg?style=for-the-badge&logo=torchvision&logoColor=white"> 
 <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"> 
 
 ### LLM
