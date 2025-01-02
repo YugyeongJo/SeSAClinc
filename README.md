@@ -32,11 +32,7 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/torchvision-white.svg?style=for-the-badge&logo=torchvision&logoColor=white"> <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"> 
 
 ### LLM
-<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"> 
-<img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/faiss-white.svg?style=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/pdfplumber-white.svg?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/glob-white.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/faiss-white.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/pdfplumber-white.svg?style=for-the-badge&logo=&logoColor=white">
 
 ### Data Handling
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
