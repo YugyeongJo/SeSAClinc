@@ -20,6 +20,11 @@ AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스는 A
 ## 🗄️ Dataset
 👉 Skin Type
 - [Kaggle "Oily, Dry and Normal Skin Types Dataset"](https://www.kaggle.com/datasets/shakyadissanayake/oily-dry-and-normal-skin-types-dataset)
+- [Roboflow "Skin Analysis Oily Computer Vision Project"](https://universe.roboflow.com/nirji/skin-analysis-oily)
+- [Roboflow "oiliness skin Computer Vision Project"](https://universe.roboflow.com/computer-vision-9fshf/oiliness-skin)
+- [Roboflow "oily Computer Vision Project"](https://universe.roboflow.com/keerthana-2xvo1/skin-type-detection)
+- [Kaggle "face skin type"](https://www.kaggle.com/datasets/muttaqin1113/face-skin-type)
+- [Kaggle "Dry-Oily and Normal Skin Types"](https://www.kaggle.com/datasets/shakyadissanayake/dry-oily-and-normal-skin-types)
 
 👉 Skin Defect
 - [Roboflow ""]()
