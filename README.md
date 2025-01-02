@@ -19,6 +19,7 @@ AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스는 A
 
 ## 🗄️ Dataset
 👉 Skin Type
+- Data sources : Kaggle, Roboflow
 - Total : 8410
 
 |Skin Type|count|
@@ -28,8 +29,35 @@ AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스는 A
 |Oily|2674|
 
 👉 Skin Defect
+- Data sources : Kaggle, Roboflow, github
+
+|Flushing|count|
+|--|--|
+|flushing|873|
+|non-flushin|873|
+
+|Wrinkles|count|
+|--|--|
+|wrinkles|1590|
+|non-wrinkles|1000|
+
+|Pores|count|
+|--|--|
+|pores|1912|
+|non-pores|3000|
+
+|defect class|count|final count|
+|--|--|--|
+|psoriasis|2000|1211|
+|acne|5066|1212|
+|pigmentation|1212|1207|
 
 👉 LLM Document
+- Data sources : Kaggle, Roboflow
+- Total : 
+
+|Skin Type|count|
+|--|--|
 
 ## 🔧 Stack
 
