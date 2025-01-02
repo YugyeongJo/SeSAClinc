@@ -9,9 +9,13 @@
 </p>
 
 ## 📖 Description
-프로젝트는 Kaggle의 "The Movies Dataset"을 활용하여 팀원 각자가 설정한 분석 주제에 따라 다양한 인사이트를 도출하는 것을 목표로 하였습니다. 
-팀원들은 각자의 분석 결과를 바탕으로 서로 피드백을 주고받으며 데이터 분석 능력을 향상시키고, 영화 산업에 대한 다양한 통찰을 공유하였습니다. 
-이 과정에서 데이터 전처리, 탐색적 데이터 분석, 시각화, 모델링 등 다양한 분석 기법을 적용하여 영화 데이터에 숨겨진 패턴과 트렌드를 파악하였습니다.
+AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스는 AI 컴퓨터 비전 기술을 활용하여 사용자가 자신의 피부 상태를 진단받고, RAG(조회 기반 생성) 기반 상담 챗봇을 통해 개인 맞춤형 피부 고민 및 관리 방법을 상담받을 수 있는 서비스입니다. 
+
+사용자가 얼굴 이미지를 업로드하면 AI가 피부 타입과 결함(홍조, 모공, 여드름, 색소침착, 건선 등)을 분석하고, 이를 바탕으로 간단한 관리 방법을 안내합니다.
+
+보다 심도 있는 상담을 원하는 사용자는 RAG 기반의 챗봇을 통해 구체적인 피부 고민과 관리법에 대해 질문할 수 있습니다.  챗봇은 사용자의 개별적인 고민에 맞춘 맞춤형 응답을 제공하며, 보다 전문적인 피부 관리 정보를 전달합니다.
+
+이 서비스는 사용자가 쉽고 간편하게 개인 맞춤형 피부 관리 방법을 찾을 수 있도록 돕고, 각자의 피부 고민에 대한 해결책을 제시하는 것을 목표로 합니다.
 
 ## 🗄️ Dataset
 👉 Skin Type
@@ -35,7 +39,7 @@
 <img src="https://img.shields.io/badge/Openai-74aa9c?style=for-the-badge&logo=openai&logoColor=whit"> <img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/glob-black.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/faiss-black.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/pdfplumber-black.svg?style=for-the-badge&logo=&logoColor=white">
 
 ### Data Handling
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/beautifulsoup4-3776AB.svg?style=for-the-badge&logo=beautifulsoup4&logoColor=white"> <img src="https://img.shields.io/badge/pillow-black.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/imgaug-black.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-3776AB.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/seaborn-3776AB.svg?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/pillow-black.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/imgaug-black.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-3776AB.svg?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/beautifulsoup4-3776AB.svg?style=for-the-badge&logo=beautifulsoup4&logoColor=white">
 
 ### Environment & Resource Management
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
